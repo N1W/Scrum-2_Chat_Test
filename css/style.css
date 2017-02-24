@@ -6,6 +6,12 @@ main {
 	background: green;
 }
 
+.change-text {
+	width: 100px;
+	color: blue;
+	background-color: yellow;
+}
+
 footer {
 	background: blue;
 }
