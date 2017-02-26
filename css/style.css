@@ -12,6 +12,12 @@ main {
 	background-color: yellow;
 }
 
+.new-div{
+	background-color: #black;
+	color: yellow;
+	border: 1x solid red;
+}
+
 footer {
 	background: blue;
 }
