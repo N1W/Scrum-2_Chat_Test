@@ -1,6 +1,22 @@
 header {
 	background-color: yellow; /*change background color*/
 }
+.title {
+    width: 100px;
+    height: 25px;
+    margin: 0 0 0 2px;
+    border-radius: 12px;
+    line-height: 27px;
+    font-size: 14px;
+}
+.menu-left {
+	list-style-image: url('../img/bullet.png');
+    margin-left: 20px;
+}
+.menu-left li {
+	margin-top: 6px;
+    line-height: 20px;
+}
 
 main {
 	background: green;
