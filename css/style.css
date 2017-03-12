@@ -1,5 +1,9 @@
 header {
-	background-color: green; /*change background color*/
+<<<<<<< HEAD
+	background-color: black; /*change background color*/
+=======
+	background-color: #eee; /*change background color*/
+>>>>>>> b7e053db8ed757f9a1031faa3ff6baa0e0ea42ab
 }
 .title {
     width: 150px;
