@@ -1,5 +1,10 @@
 header {
+<<<<<<< HEAD
 	background-color: #324; /*change background color*/
+=======
+	background-color: black; /*change background color*/
+	/*у меня все вышло*/
+>>>>>>> 7d5569f62c0c164aef642697e7b5394194188f57
 }
 .title {
     width: 150px;
