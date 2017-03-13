@@ -1,0 +1,43 @@
+/*1) Требования:
+Шрифт- Verdana
+Размер основного текста - 13px
+line-higth - 17px
+h1-30px
+h2-27px
+h3-24px
+маленькие элементы (дата на карточке трело) - 8px
+Ширина макета - 1024!!!!*/
+
+body{
+	font-family: verdana;
+	font-size: 13px;
+	line-height: 17px;
+}
+h1{
+	font-size: 30px;
+}
+h2{
+	font-size: 27px;
+}
+h3{
+	font-size: 24px;
+}
+h5{
+	font-size: 8px;
+}
+.wrapper{
+	width: 1024px;
+}
+
+/*7.Сдлеать на всех макетах одинаковый тулбар
+8Шрифт 11 line-heigth -14*/
+
+.tulbar{
+	font-size: 11px;
+	line-height: 14px;
+	background-color: #44883d;
+	border-right: 20 px solid #86af49;
+	/**/
+	display: flex;
+	
+}
