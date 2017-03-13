@@ -36,8 +36,14 @@ h5{
 	font-size: 11px;
 	line-height: 14px;
 	background-color: #44883d;
-	border-right: 20 px solid #86af49;
+	border-right: 10px solid #86af49;
 	/**/
-	display: flex;
-	
+	/*display: flex;?????*/
+}
+.logo{
+	background-color: #8a9a9a;
+	/*background-color: #8a999c;*/
+}
+.contactArea{
+	background-color: #e2e0e3;
 }
