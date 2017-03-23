@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'ArialMT';
+    src: url('../fonts/ArialMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+header {
+	background-color: #324; /*change background color*/
+	/*test*/
+	/*test*/
+}
+
+.title {
+    width: 150px;
+    height: 25px;
+    margin: 0 0 0 2px;
+    border-radius: 12px;
+    line-height: 27px;
+    font-size: 14px;
+}
+
+.title span {
+	vertical-align: top; 
+}
+
+.menu-left {
+	list-style-image: url('../img/bullet.png');
+    margin-left: 20px;
+}
+
+.menu-left li {
+	margin-top: 6px;
+    line-height: 20px;
+}
+
+main {
+	background: #88B640;
+}
+
+.change-text {
+	/*display: inline-block;*/
+	margin-left: 40px;
+	margin-top: 20px;
+	width: 200px;
+	color: blue;
+	background-color: yellow;
+	overflow: hidden;
+}
+
+.change-text p {
+	margin-top: 4px;
+    margin-left: 15px;
+    margin-right: 5px;
+    font-family: 'ArialMT';
+    font-size: 16px;
+    font-weight: 900;
+    font-style: italic;
+    color: #114165;
+}
+
+.option {
+	width: 911px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+.new-div {
+	width: 150px;
+	display: inline-flex;
+	/*justify-content: space-around;*/
+	/*flex-flow: row wrap;*/
+	text-align: center;
+	background-color: #213a4d;
+	color: yellow;
+	border: 1px solid red;
+}
+
+footer {
+	background: blue;
+}
